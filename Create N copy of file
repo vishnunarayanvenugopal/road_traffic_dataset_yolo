@@ -1,0 +1,3 @@
+Open CMD -- > cd path then enter following code
+
+for /L %f in (1,1,1000) do copy C:\Temp\1Filename.txt C:\Temp\%fFilename.txt
