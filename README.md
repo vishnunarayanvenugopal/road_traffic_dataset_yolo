@@ -18,7 +18,7 @@ Thanks to https://github.com/udacity/CarND-Vehicle-Detection
 
 http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/
 
-Acknowledgements:
+##### Acknowledgements:
 -----------------
 The EU project LAVA (IST-2001-34405) and the Austrian Science Foundation (project S9103-N04)
 
@@ -34,7 +34,7 @@ http://coding-guru.com/popular-pedestrian-detection-datasets/
 
 PETA : http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 
-Acknowledgements:
+##### Acknowledgements:
 -----------------
 The EU project LAVA (IST-2001-34405) and the Austrian Science Foundation (project S9103-N04)
 
