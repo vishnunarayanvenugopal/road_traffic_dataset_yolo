@@ -2,7 +2,11 @@
 
 note : collection of vehicle datasets available here : https://github.com/hunjung-lim/awesome-vehicle-datasets
 
-Database list : http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+Database list :
+
+http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+
+http://www.cvpapers.com/datasets.html
 
 Image datasets of vehicles annotated for YOLOV3 
 
@@ -40,4 +44,6 @@ The EU project LAVA (IST-2001-34405) and the Austrian Science Foundation (projec
 
 Citation.
 Y. Deng, P. Luo, C. C. Loy, X. Tang, "Pedestrian attribute recognition at far distance", in Proceedings of ACM Multimedia (ACM MM), 2014
+
+## 4. Bus
 
