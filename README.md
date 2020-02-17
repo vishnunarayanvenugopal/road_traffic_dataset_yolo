@@ -47,5 +47,9 @@ The EU project LAVA (IST-2001-34405) and the Austrian Science Foundation (projec
 Citation.
 Y. Deng, P. Luo, C. C. Loy, X. Tang, "Pedestrian attribute recognition at far distance", in Proceedings of ACM Multimedia (ACM MM), 2014
 
+Z. Luo, F.B.Charron, C.Lemaire, J.Konrad, S.Li, A.Mishra, A. Achkar, J. Eichel, P-M Jodoin
+MIO-TCD: A new benchmark dataset for vehicle classification and localization
+in press at IEEE Transactions on Image Processing, 2018
+
 ## 4. Bus
 
