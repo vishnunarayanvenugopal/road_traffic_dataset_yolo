@@ -10,6 +10,8 @@ http://www.cvpapers.com/datasets.html
 
 Dashcam accident dataset : https://aliensunmin.github.io/project/dashcam/
 
+vehicle dataset : http://podoce.dinf.usherbrooke.ca/challenge/dataset/
+
 Image datasets of vehicles annotated for YOLOV3 
 
 ## 1. Cars
@@ -47,9 +49,11 @@ The EU project LAVA (IST-2001-34405) and the Austrian Science Foundation (projec
 Citation.
 Y. Deng, P. Luo, C. C. Loy, X. Tang, "Pedestrian attribute recognition at far distance", in Proceedings of ACM Multimedia (ACM MM), 2014
 
+## 4. Bus
+
+http://podoce.dinf.usherbrooke.ca/challenge/dataset/
+
 Z. Luo, F.B.Charron, C.Lemaire, J.Konrad, S.Li, A.Mishra, A. Achkar, J. Eichel, P-M Jodoin
 MIO-TCD: A new benchmark dataset for vehicle classification and localization
 in press at IEEE Transactions on Image Processing, 2018
-
-## 4. Bus
 
