@@ -57,3 +57,15 @@ Z. Luo, F.B.Charron, C.Lemaire, J.Konrad, S.Li, A.Mishra, A. Achkar, J. Eichel, 
 MIO-TCD: A new benchmark dataset for vehicle classification and localization
 in press at IEEE Transactions on Image Processing, 2018
 
+## 5. Motor Bike
+
+http://podoce.dinf.usherbrooke.ca/challenge/dataset/
+
+Z. Luo, F.B.Charron, C.Lemaire, J.Konrad, S.Li, A.Mishra, A. Achkar, J. Eichel, P-M Jodoin
+MIO-TCD: A new benchmark dataset for vehicle classification and localization
+in press at IEEE Transactions on Image Processing, 2018
+
+## 6. Autorikshaw
+
+http://cvit.iiit.ac.in/autorickshaw_detection/
+
