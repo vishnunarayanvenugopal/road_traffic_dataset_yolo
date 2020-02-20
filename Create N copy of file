@@ -5,3 +5,7 @@ for /L %f in (1,1,1000) do copy C:\Temp\1Filename.txt C:\Temp\%fFilename.txt
 To bulk rename files
 
 Ant renamer 2.12
+
+To bulk resize images 
+
+fasstone photo resizer
