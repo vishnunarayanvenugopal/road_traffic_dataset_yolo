@@ -77,7 +77,12 @@ Z. Luo, F.B.Charron, C.Lemaire, J.Konrad, S.Li, A.Mishra, A. Achkar, J. Eichel, 
 MIO-TCD: A new benchmark dataset for vehicle classification and localization
 in press at IEEE Transactions on Image Processing, 2018
 
-## 7. Accident
+## 7. Accident 
 
 https://github.com/OlafenwaMoses/Traffic-Net
+
+## 8. Fire
+
+https://github.com/OlafenwaMoses/Traffic-Net
+
 
