@@ -8,3 +8,4 @@ van
 cycle
 truck
 Accident
+Fire
